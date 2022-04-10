@@ -7,6 +7,6 @@ energy of the muon beam ranges from 5 - 20 MeV such that it is enough to penetra
 
 The populations of the doublet (n1/2) and quartet (n3/2) states of the the μd atom can be found by solving the sets of coupled differential equations given below:</br>
 <img width="412" alt="Screen Shot 2022-04-10 at 2 28 16 PM" src="https://user-images.githubusercontent.com/27436642/162634126-cfc3c90e-112c-47c6-9716-2b5b6c99ffd7.png"> </br>
-The symbols in the above equation are the variuos rates of respective decays and reactions as depicted in the figure above.</br>
+The symbols in the above equation are the variuos rates of respective decays and reactions as depicted in the figure above.</br></br>
 This repository documents the detailed description in derivations of these equations in kinetic_sol.pdf. I used **Mathematica** to find the 
 **anaytical solution** of these **coupled differential equations**. This is shown in the notebook (saved as pdf) finalSol. 
