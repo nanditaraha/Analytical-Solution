@@ -1,4 +1,4 @@
-# Muon Chemistry and Kinetics in Deuterium
+## Muon Chemistry and Kinetics in Deuterium
 This is a documentation of the solution of the coupled differential equations of the muon chemistry that goes on in the muon capture in deuterium. 
 When a negative muon enters pure deuterium gas, it loses its kinetic energy in subse- quent collisions with the molecules of the gas. The initial kinetic 
 energy of the muon beam ranges from 5 - 20 MeV such that it is enough to penetrate the target and slow down to attain energies of the range of 10-20 eV
